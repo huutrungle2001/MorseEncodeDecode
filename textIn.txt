@@ -1,0 +1,9 @@
+C language is one of the most popular general-purpose programming language developed by Dennis Ritchie at Bell laboratories for UNIX operating system. The initial release of C Language was in the year 1972. Most of the desktop operating systems are written in C Language.
+
+Key features:
+Structured Programming
+Popular system programming language
+UNIX, MySQL and Oracle are completely written in C.
+Supports variety of platforms
+Efficient and also handle low-level activities.
+As fast as assembly language and hence used as system development language.

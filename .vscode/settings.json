@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "future": "c",
+        "system_error": "c",
+        "regex": "c",
+        "*.tcc": "c",
+        "string.h": "c"
+    }
+}
