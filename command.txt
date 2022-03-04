@@ -1,5 +1,0 @@
-gcc main.c -o main
-
-./main "textIn.txt" "textOut.txt"
-
-./main "MorseIn.txt" "MorseOut.txt"
